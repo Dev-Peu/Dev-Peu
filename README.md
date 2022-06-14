@@ -3,6 +3,7 @@
 - 🌱 Estudando ReactJs e PostgreSQL
 - 😄 Pronomes: ele/dele
 - ⚡ Fato engraçado: eu não gosto de ketchup
+- 👨‍💻 Tecnologias que utilizo: VanillaJs, HTML, CSS, ReactJs, NPM, NodeJS, PostgreSQL
 
 <div align="center">
   <a href="https://github.com/Dev-Peu">
