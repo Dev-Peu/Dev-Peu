@@ -1,4 +1,5 @@
-### Olá! Eu sou o Pedro
+# Olá!!
+## Seja bem-vindo ao meu perfil, Sou o Pedro!
 
 - 🌱 Estudando ReactJs e PostgreSQL
 - 😄 Pronomes: ele/dele
