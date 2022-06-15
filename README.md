@@ -1,5 +1,5 @@
-# Olá!!
-## Seja bem-vindo ao meu perfil, Sou o Pedro!
+<h1>Olá!!</h1>
+<h3>Seja bem-vindo ao meu perfil, Sou o Pedro!</h3>
 
 - 🌱 Estudando ReactJs e PostgreSQL
 - 😄 Pronomes: ele/dele
