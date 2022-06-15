@@ -7,7 +7,7 @@
 
 <div align="">
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Dev-Peu&count_private=true&theme=tokyonight&show_icons=true"/>
-  <img align="right" width="10%" alt="gif" src="https://c.tenor.com/Pqy9v-MSNQIAAAAC/orbit-8bit.gif"/>
+  <img align="right" width="25%" alt="gif" src="https://c.tenor.com/Pqy9v-MSNQIAAAAC/orbit-8bit.gif"/>
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Peu&theme=tokyonight&layout=default">
 </div>
 
