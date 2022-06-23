@@ -3,7 +3,7 @@
 
 - 🌱 Estudando ReactJs e PostgreSQL
 - ⚡ Fato engraçado: eu não gosto de ketchup
-- 👨‍💻 Tecnologias que utilizo: VanillaJs, HTML, CSS, ReactJs, NPM, NodeJS, PostgreSQL
+- 👨‍💻 Tecnologias que utilizo: Javascript, HTML, CSS, ReactJs, NPM, NodeJS, PostgreSQL
 
   <div align="">
  <a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
